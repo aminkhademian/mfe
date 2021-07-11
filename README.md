@@ -1,1 +1,1 @@
-# mfe
+# Micro Front-End architecture example
