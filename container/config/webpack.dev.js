@@ -11,7 +11,7 @@ const devConfig = {
     publicPath: `http://localhost:${CONTAINER_PORT}/`
   },
   devServer: {
-      port: CONTAINER_PORT,
+    port: CONTAINER_PORT,
     historyApiFallback: {
         index: "index.html"
     }
